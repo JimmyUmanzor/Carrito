@@ -7,7 +7,7 @@ export default function Home() {
       <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
        
 
-        <Link href='/producto'>Ingrsar al listado de productos</Link>
+        <Link href='/producto'>Ingresar al listado de productos</Link>
 
         
       </main>
